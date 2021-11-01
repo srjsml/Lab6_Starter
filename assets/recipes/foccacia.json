@@ -1,0 +1,123 @@
+{
+    "@graph": [
+        {
+            "@type": "Question",
+            "text": "Do you attend (or host) at least one Halloween party a year?",
+            "suggestedAnswer": [
+                {
+                    "@type": "Answer",
+                    "text": "Yes"
+                },
+                {
+                    "@type": "Answer",
+                    "text": "No"
+                }
+            ]
+        }
+    ],
+    "@context": "http://schema.org",
+    "url": "https://www.delish.com/holiday-recipes/halloween/a28621353/mummy-hot-dogs-recipe/",
+    "publisher": {
+        "@type": "Organization",
+        "name": "Delish",
+        "logo": {
+            "@type": "ImageObject",
+            "url": "https://assets.hearstapps.com/sites/delish/assets/images/logos/logo-jsonld.58eed96.png",
+            "width": 219,
+            "height": 60
+        }
+    },
+    "@type": "Recipe",
+    "author": {
+        "name": "Lauren Miyashiro",
+        "@type": "Person"
+    },
+    "datePublished": "2019-09-24T21:29:33.412498Z",
+    "headline": "Mummy Hot Dogs",
+    "image": {
+        "@type": "ImageObject",
+        "height": 1267,
+        "thumbnail": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-191908-hot-dog-mummies-0162-landscape-pf-1569358352.jpg?crop=0.670xw:1.00xh;0.168xw,0&resize=100:*",
+        "url": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-191908-hot-dog-mummies-0162-landscape-pf-1569358352.jpg",
+        "width": 1900
+    },
+    "mainEntityOfPage": {
+        "@id": "https://www.delish.com/holiday-recipes/halloween/a28621353/mummy-hot-dogs-recipe/",
+        "@type": "WebPage"
+    },
+    "thumbnailUrl": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-191908-hot-dog-mummies-0162-landscape-pf-1569358352.jpg?crop=0.670xw:1.00xh;0.168xw,0&resize=100:*",
+    "dateModified": "2021-07-30T21:03:00Z",
+    "isAccessibleForFree": "False",
+    "hasPart": [
+        {
+            "@type": "WebPageElement",
+            "isAccessibleForFree": "False",
+            "cssSelector": ".content-container"
+        }
+    ],
+    "name": "Mummy Hot Dogs",
+    "prepTime": "PT5M",
+    "cookTime": "PT0S",
+    "totalTime": "PT35M",
+    "recipeIngredient": [
+        "1 <p>(8-oz.) can Crescent dough</p>",
+        "3 <p>slices American cheese</p>",
+        "12 <p>hot dogs&nbsp;</p>",
+        "2 tbsp. <p>melted butter</p>",
+        "<p>Dijon mustard</p>"
+    ],
+    "recipeInstructions": "Preheat oven to 375\u00b0 and line a large baking sheet with parchment paper. Separate crescent dough into 4 rectangles, pinching together seams as necessary. Cut each rectangle lengthwise into thin strips.&nbsp; Cut each slice of&nbsp;American cheese into 4 strips.&nbsp; Place a hot dog on top of a piece of cheese, then wrap with crescent dough to look like bandages. (You\u2019ll need about 4 pieces of crescent dough per hot dog.) Repeat with remaining ingredients.&nbsp; Place on prepared baking sheet and brush with melted butter.&nbsp; Bake until crescent dough is golden and cooked through, 12 to 15&nbsp;minutes.&nbsp; Using a toothpick, dot mustard onto each hot dog to create eyes.&nbsp;&nbsp;",
+    "video": {
+        "@type": "VideoObject",
+        "contentUrl": "https://streaming.hearstdigitalstudios.com/manual_upload/59e0de4cd5593006a3e9c63e/mp4/Delish-Spider-Trifle-FRONT_1507909210_4000_hd_v3.mp4",
+        "description": "Layers of pumpkin, chocolate, and Oreos. Who could resist?",
+        "duration": "PT55S",
+        "embedUrl": "https://glimmer.hearstapps.com/?id=da4555e8-92b8-4cc9-8385-102a7d8838ee",
+        "name": "This Spider Trifle Is The Ultimate Halloween Dessert",
+        "thumbnailUrl": "https://hips.hearstapps.com/vidthumb/manual_upload/59e0de4cd5593006a3e9c63e/thumb_1507909199.png",
+        "uploadDate": "2017-10-13T15:39:56.227895Z"
+    },
+    "recipeCuisine": [],
+    "aggregateRating": {
+        "@context": "http://schema.org/",
+        "@type": "AggregateRating",
+        "ratingValue": 5,
+        "reviewCount": 1,
+        "worstRating": 1,
+        "bestRating": 5
+    },
+    "review": [
+        {
+            "@context": "http://schema.org/",
+            "@type": "Review",
+            "datePublished": "2019-11-04",
+            "author": {
+                "@context": "http://schema.org/",
+                "@type": "Person",
+                "name": "MisaMommy"
+            },
+            "reviewBody": "I love the idea of adding cheese! This time we used mild cheddar. Next time I might try it with cream cheese. I usually do my pigs in a blanket with a dab of cream cheese and mustard. My kids enjoyed making these, even though they got a little complicated with the juice from the hot dog and the crescent roll dough getting sticky from getting warm",
+            "reviewRating": {
+                "@context": "http://schema.org/",
+                "@type": "Rating",
+                "ratingValue": 5,
+                "worstRating": 1,
+                "bestRating": 5
+            }
+        }
+    ],
+    "recipeCategory": [
+        "dinner party",
+        "Halloween",
+        "dinner",
+        "meat",
+        "snack"
+    ],
+    "nutrition": {
+        "@type": "NutritionInformation",
+        "calories": "289 calories"
+    },
+    "recipeYield": "12 servings",
+    "description": "Planning a Halloween party? Make these Mummy Hot Dogs from Delish.com for a cute and spooky snack.",
+    "keywords": "Halloween, dinner, dinner party, meat, snack"
+}

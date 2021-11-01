@@ -1,0 +1,369 @@
+{
+    "@context": "https://schema.org",
+    "@graph": [
+        {
+            "@type": "WebSite",
+            "@id": "https://www.indianhealthyrecipes.com/#website",
+            "url": "https://www.indianhealthyrecipes.com/",
+            "name": "Swasthi&#039;s Recipes",
+            "description": "Indian food blog with easy Indian recipes",
+            "publisher": {
+                "@id": "https://www.indianhealthyrecipes.com/#/schema/person/2d7d264cdc5dc6602ee06a087cd3fcb0"
+            },
+            "potentialAction": [
+                {
+                    "@type": "SearchAction",
+                    "target": {
+                        "@type": "EntryPoint",
+                        "urlTemplate": "https://www.indianhealthyrecipes.com/?s={search_term_string}"
+                    },
+                    "query-input": "required name=search_term_string"
+                }
+            ],
+            "inLanguage": "en-US"
+        },
+        {
+            "@type": "ImageObject",
+            "@id": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#primaryimage",
+            "inLanguage": "en-US",
+            "url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2014/11/paneer-tikka-masala-recipe-1.jpg",
+            "contentUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2014/11/paneer-tikka-masala-recipe-1.jpg",
+            "width": 680,
+            "height": 510,
+            "caption": "paneer tikka masala recipe"
+        },
+        {
+            "@type": "WebPage",
+            "@id": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#webpage",
+            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/",
+            "name": "Paneer tikka masala recipe - Swasthi&#039;s Recipes",
+            "isPartOf": {
+                "@id": "https://www.indianhealthyrecipes.com/#website"
+            },
+            "primaryImageOfPage": {
+                "@id": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#primaryimage"
+            },
+            "datePublished": "2014-11-09T06:36:00+00:00",
+            "dateModified": "2019-12-12T14:56:56+00:00",
+            "description": "Paneer tikka masala is a popular dish of grilled paneer in spicy onion tomato gravy. Learn how to make resaturant style paneer tikka masala.",
+            "breadcrumb": {
+                "@id": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#breadcrumb"
+            },
+            "inLanguage": "en-US",
+            "potentialAction": [
+                {
+                    "@type": "ReadAction",
+                    "target": [
+                        "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/"
+                    ]
+                }
+            ]
+        },
+        {
+            "@type": "BreadcrumbList",
+            "@id": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#breadcrumb",
+            "itemListElement": [
+                {
+                    "@type": "ListItem",
+                    "position": 1,
+                    "name": "Home",
+                    "item": "https://www.indianhealthyrecipes.com/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 2,
+                    "name": "Recipes",
+                    "item": "https://www.indianhealthyrecipes.com/recipes/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 3,
+                    "name": "vegetarian",
+                    "item": "https://www.indianhealthyrecipes.com/recipes/veg-recipes/"
+                },
+                {
+                    "@type": "ListItem",
+                    "position": 4,
+                    "name": "Paneer tikka masala"
+                }
+            ]
+        },
+        {
+            "@type": "Article",
+            "@id": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#article",
+            "isPartOf": {
+                "@id": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#webpage"
+            },
+            "author": {
+                "@id": "https://www.indianhealthyrecipes.com/#/schema/person/2d7d264cdc5dc6602ee06a087cd3fcb0"
+            },
+            "headline": "Paneer tikka masala recipe | How to make paneer tikka masala (restaurant style)",
+            "datePublished": "2014-11-09T06:36:00+00:00",
+            "dateModified": "2019-12-12T14:56:56+00:00",
+            "wordCount": 1985,
+            "commentCount": 185,
+            "publisher": {
+                "@id": "https://www.indianhealthyrecipes.com/#/schema/person/2d7d264cdc5dc6602ee06a087cd3fcb0"
+            },
+            "image": {
+                "@id": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#primaryimage"
+            },
+            "thumbnailUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2014/11/paneer-tikka-masala-3.jpg",
+            "articleSection": [
+                "Kids Recipes",
+                "Latest",
+                "North Indian",
+                "Popular recipes",
+                "vegetarian"
+            ],
+            "inLanguage": "en-US",
+            "potentialAction": [
+                {
+                    "@type": "CommentAction",
+                    "name": "Comment",
+                    "target": [
+                        "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#respond"
+                    ]
+                }
+            ]
+        },
+        {
+            "@type": [
+                "Person",
+                "Organization"
+            ],
+            "@id": "https://www.indianhealthyrecipes.com/#/schema/person/2d7d264cdc5dc6602ee06a087cd3fcb0",
+            "name": "swasthi",
+            "image": {
+                "@type": "ImageObject",
+                "@id": "https://www.indianhealthyrecipes.com/#personlogo",
+                "inLanguage": "en-US",
+                "url": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/02/Swasthis-Recipes-AMP.png",
+                "contentUrl": "https://www.indianhealthyrecipes.com/wp-content/uploads/2018/02/Swasthis-Recipes-AMP.png",
+                "width": 150,
+                "height": 150,
+                "caption": "swasthi"
+            },
+            "logo": {
+                "@id": "https://www.indianhealthyrecipes.com/#personlogo"
+            },
+            "description": "I\u2019m Swasthi Shreekanth, the recipe developer, food photographer &amp; food writer behind Swasthi's Recipes. My aim is to help you cook great Indian food with my time-tested recipes. After 2 decades of experience in practical Indian cooking I started this blog to help people cook better &amp; more often at home. Whether you are a novice or an experienced cook I am sure Swasthi\u2019s Recipes will assist you to enhance your cooking skills. Read more.."
+        },
+        {
+            "@context": "http://schema.org/",
+            "@type": "Recipe",
+            "name": "Paneer tikka masala recipe",
+            "author": {
+                "@type": "Person",
+                "name": "Swasthi"
+            },
+            "description": "Delicious paneer tikka masala prepared in restaurant style. This North Indian paneer tikka masala is rich, flavorful and great to serve on occasions with some paratha, naan or basmati rice.&nbsp;",
+            "datePublished": "2014-11-09T06:36:00+00:00",
+            "image": [
+                "https://www.indianhealthyrecipes.com/wp-content/uploads/2014/11/paneer-tikka-masala-recipe-1.jpg",
+                "https://www.indianhealthyrecipes.com/wp-content/uploads/2014/11/paneer-tikka-masala-recipe-1-500x500.jpg",
+                "https://www.indianhealthyrecipes.com/wp-content/uploads/2014/11/paneer-tikka-masala-recipe-1-500x375.jpg",
+                "https://www.indianhealthyrecipes.com/wp-content/uploads/2014/11/paneer-tikka-masala-recipe-1-480x270.jpg"
+            ],
+            "recipeYield": [
+                "4"
+            ],
+            "prepTime": "PT30M",
+            "cookTime": "PT25M",
+            "totalTime": "PT55M",
+            "recipeIngredient": [
+                "250 grams paneer (cubed)",
+                "\u00bd cup greek yogurt ((thick curd or hung curd) (refer notes))",
+                "1 teaspoon ginger garlic paste (or crushed ginger garlic)",
+                "\u00bc to \u00bd teaspoon red chili powder (or paprika (less spicy kind))",
+                "\u00bd teaspoon garam masala (or tandoori masala)",
+                "\u215b teaspoon turmeric ((optional))",
+                "\u00bc teaspoon salt to taste",
+                "\u00bd small bell pepper (optional) ((capsicum)(cubed))",
+                "\u00bd small onion (optional) (cubed &amp; layers separated)",
+                "2 tablespoons oil",
+                "1 cup onions  (cubed (2 medium))",
+                "1\u00bd cup tomatoes (ripe chopped (3 large))",
+                "1\u00bd teaspoon ginger garlic paste (or crushed ginger garlic)",
+                "14  cashew nuts  (or almonds)",
+                "\u00be to 1 teaspoon red chili powder ((or paprika) less spicy kind)",
+                "\u00be to 1 teaspoon garam masala",
+                "\u00bc teaspoon salt  ((adjust to taste))",
+                "1 teaspoon sugar",
+                "1 teaspoon kasuri methi ((optional) (dried fenugreek leaves))",
+                "3  tablespoons cream",
+                "2 tablespoons coriander leaves ((cilantro chopped finely))"
+            ],
+            "recipeInstructions": [
+                {
+                    "@type": "HowToSection",
+                    "name": "Preparation",
+                    "itemListElement": [
+                        {
+                            "@type": "HowToStep",
+                            "text": "Firstly add \u00bd cup yogurt, \u00bc to \u00bd teaspoon red chili powder, 1 teaspoon ginger garlic paste, \u00bd teaspoon garam masala, \u215b teaspoon turmeric &amp; \u00bc teaspoon salt\u00a0to a mixing bowl.\u00a0",
+                            "name": "Firstly add \u00bd cup yogurt, \u00bc to \u00bd teaspoon red chili powder, 1 teaspoon ginger garlic paste, \u00bd teaspoon garam masala, \u215b teaspoon turmeric &amp; \u00bc teaspoon salt\u00a0to a mixing bowl.\u00a0",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-0-0"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Mix well and taste test it. Add more salt if needed. Add paneer cubes &amp; mix well to coat the marinade.",
+                            "name": "Mix well and taste test it. Add more salt if needed. Add paneer cubes &amp; mix well to coat the marinade.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-0-1"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Optional - If using onions &amp; bell peppers, then add \u00bd cubed onion layers &amp; \u00bd cubed bell pepper and marinate well. Set this aside until the gravy is done.",
+                            "name": "Optional - If using onions &amp; bell peppers, then add \u00bd cubed onion layers &amp; \u00bd cubed bell pepper and marinate well. Set this aside until the gravy is done.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-0-2"
+                        }
+                    ]
+                },
+                {
+                    "@type": "HowToSection",
+                    "name": "How to make paneer tikka masala",
+                    "itemListElement": [
+                        {
+                            "@type": "HowToStep",
+                            "text": "Heat 1 tablespoon oil and add 1 cup chopped onions. Saute them well until transparent or golden.",
+                            "name": "Heat 1 tablespoon oil and add 1 cup chopped onions. Saute them well until transparent or golden.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-1-0"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Add 1\u00bd cup tomatoes, 14 cashews, 1 teaspoon sugar and \u00bd teaspoon salt. Saute all of these well until the tomatoes turn mushy and soft.",
+                            "name": "Add 1\u00bd cup tomatoes, 14 cashews, 1 teaspoon sugar and \u00bd teaspoon salt. Saute all of these well until the tomatoes turn mushy and soft.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-1-1"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Then add \u00be to 1 teaspoon red chilli powder &amp; \u00be to 1 teaspoon garam masala, Saute all of these for 2 mins, until the masala smells good &amp; aromatic.",
+                            "name": "Then add \u00be to 1 teaspoon red chilli powder &amp; \u00be to 1 teaspoon garam masala, Saute all of these for 2 mins, until the masala smells good &amp; aromatic.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-1-2"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Cool this completely and add to a blender.  Pour \u00bd to \u00be cup water and blend to a smooth puree.",
+                            "name": "Cool this completely and add to a blender.  Pour \u00bd to \u00be cup water and blend to a smooth puree.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-1-3"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Heat 1 tbsp oil in a pan. Add 1\u00bd teaspoon ginger garlic paste &amp; saute for 1 to 2 mins, until the raw smell goes off.",
+                            "name": "Heat 1 tbsp oil in a pan. Add 1\u00bd teaspoon ginger garlic paste &amp; saute for 1 to 2 mins, until the raw smell goes off.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-1-4"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Lower the flame and add the onion tomato puree.\u00a0(Careful as it may splash)",
+                            "name": "Lower the flame and add the onion tomato puree.\u00a0(Careful as it may splash)",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-1-5"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "If needed you can optionally add more chilli powder to achieve a brighter color.",
+                            "name": "If needed you can optionally add more chilli powder to achieve a brighter color.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-1-6"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Pour \u00bd to \u00be cup water to bring this to a consistency.",
+                            "name": "Pour \u00bd to \u00be cup water to bring this to a consistency.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-1-7"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Cover and cook until the gravy turns thick and you see traces of oil on top.",
+                            "name": "Cover and cook until the gravy turns thick and you see traces of oil on top.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-1-8"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Crush the kasuri methi in your palms and sprinkle it.\u00a0(optional)",
+                            "name": "Crush the kasuri methi in your palms and sprinkle it.\u00a0(optional)",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-1-9"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Taste the gravy &amp; add more salt if needed. Rest this aside.",
+                            "name": "Taste the gravy &amp; add more salt if needed. Rest this aside.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-1-10"
+                        }
+                    ]
+                },
+                {
+                    "@type": "HowToSection",
+                    "name": "Making paneer tikka in oven or tawa",
+                    "itemListElement": [
+                        {
+                            "@type": "HowToStep",
+                            "text": "Option 1 - To make on griddle. Heat a tsp oil in a wide pan on a high flame, coat each paneer piece with the marinade &amp; place on the griddle. Cook on a high flame till the marinade dries up and paneer turns golden. Similarly place the bell peppers and marinated onions and fry until the marinade dries up.",
+                            "name": "Option 1 - To make on griddle. Heat a tsp oil in a wide pan on a high flame, coat each paneer piece with the marinade &amp; place on the griddle. Cook on a high flame till the marinade dries up and paneer turns golden. Similarly place the bell peppers and marinated onions and fry until the marinade dries up.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-2-0"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Option 2 - Grill in oven. Preheat the oven to 430 F or 220 C. Thread paneer, onion, bell pepper to a skewers. Then grill for 8 to 10 minutes on both sides until golden and crisp.",
+                            "name": "Option 2 - Grill in oven. Preheat the oven to 430 F or 220 C. Thread paneer, onion, bell pepper to a skewers. Then grill for 8 to 10 minutes on both sides until golden and crisp.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-2-1"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Option 3 - Air fryer. If your air fryer needs preheating, you may preheat it for 5 mins first. Thread paneer, onion, bell pepper to a skewers. Air fry the skewers placed in a tray at 390 F or 200 C for 5 mins. Brush them with the marinade and then air fry for another 2 mins. The marinade has to partially dry up. Also adjust the air fryer time as needed.",
+                            "name": "Option 3 - Air fryer. If your air fryer needs preheating, you may preheat it for 5 mins first. Thread paneer, onion, bell pepper to a skewers. Air fry the skewers placed in a tray at 390 F or 200 C for 5 mins. Brush them with the marinade and then air fry for another 2 mins. The marinade has to partially dry up. Also adjust the air fryer time as needed.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-2-2"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Transfer grilled paneer tikka along with veggies &amp; onions to the tikka masala gravy.",
+                            "name": "Transfer grilled paneer tikka along with veggies &amp; onions to the tikka masala gravy.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-2-3"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "Pour the cream. Gently mix. Garnish with cream and coriander leaves.",
+                            "name": "Pour the cream. Gently mix. Garnish with cream and coriander leaves.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-2-4"
+                        },
+                        {
+                            "@type": "HowToStep",
+                            "text": "&nbsp;Serve paneer tikka masala with roti, butter naan or veg pulao.",
+                            "name": "&nbsp;Serve paneer tikka masala with roti, butter naan or veg pulao.",
+                            "url": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#wprm-recipe-38270-step-2-5"
+                        }
+                    ]
+                }
+            ],
+            "aggregateRating": {
+                "@type": "AggregateRating",
+                "ratingValue": "4.93",
+                "ratingCount": "225"
+            },
+            "recipeCategory": [
+                "Main"
+            ],
+            "recipeCuisine": [
+                "North Indian"
+            ],
+            "keywords": "paneer tikka masala",
+            "nutrition": {
+                "@type": "NutritionInformation",
+                "calories": "371 kcal",
+                "carbohydrateContent": "10 g",
+                "proteinContent": "13 g",
+                "fatContent": "30 g",
+                "saturatedFatContent": "13 g",
+                "cholesterolContent": "57 mg",
+                "sodiumContent": "200 mg",
+                "fiberContent": "2 g",
+                "sugarContent": "3 g",
+                "servingSize": "1 serving"
+            },
+            "@id": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#recipe",
+            "isPartOf": {
+                "@id": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#article"
+            },
+            "mainEntityOfPage": "https://www.indianhealthyrecipes.com/paneer-tikka-masala-recipe-sanjeev-kapoor/#webpage"
+        }
+    ]
+}
